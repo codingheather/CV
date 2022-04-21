@@ -6,7 +6,7 @@ hr {
   background-color:#F7E2E2;
   border-style: none;
   border-top-style: dotted;
-  border-color: #61A4BC;
+  border-color: #5B7DB1;
   border-width: 5px;
   width: 5%;
 }
@@ -20,7 +20,12 @@ h2 {
 }
 
 h3 {
+  color: #5B7DB1;
+}
+
+h4 {
   color: #61A4BC;
+  text-align: center;
 }
 
 .highlight {
