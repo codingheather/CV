@@ -1,0 +1,32 @@
+body {
+  background-color: #F7E2E2;
+}
+
+hr {
+  background-color:#F7E2E2;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #61A4BC;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #1A132F;
+}
+
+h2 {
+  color: #5B7DB1;
+}
+
+h3 {
+  color: #61A4BC;
+}
+
+.highlight {
+  color: #1A132F;
+}
+
+a:hover {
+  background-color: #61A4BC;
+}
